@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Levels.unity
+    guid: ba2225eee01a74648b077442e39900af
+  - enabled: 1
+    path: Assets/Scenes/Normal.unity
+    guid: 56bd4964be3b2ef4d91945b235e95494
+  - enabled: 1
+    path: Assets/Scenes/NormalPuzzles/NormalPuzzleOne.unity
+    guid: 382438e8d3b0c19479fc58305a6394f5
+  - enabled: 1
+    path: Assets/Scenes/Themed/Riddles.unity
+    guid: 791d98a99a2b9da478e32e9aeb99e39b
+  m_configObjects: {}
